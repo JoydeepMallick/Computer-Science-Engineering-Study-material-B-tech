@@ -23,9 +23,7 @@ I believe in the power of community collaboration and knowledge sharing. If you 
 
 Well, since you couldn't resist clicking, here's a little secret for you: **_Studying is like a fine art. Some days it's a masterpiece, and other days it's more abstract. Embrace the process, and remember, laughter is the best study break! 😄_**
 
-<img src="https://placekitten.com/600/400" alt="Adorable Kitten">
-
-![Adorable Kitten](https://placekitten.com/555/333)
+![Adorable Kitten](https://github.com/JoydeepMallick/Computer-Science-Engineering-Study-material-B-tech/assets/94801952/afaac9d9-8025-4af8-9551-a73e3dcd754d)
 
 #### P.S. Starring the repository is optional, but it's like giving a virtual high-five! 🌟
 
