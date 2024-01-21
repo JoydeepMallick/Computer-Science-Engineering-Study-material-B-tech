@@ -8,6 +8,10 @@ Hope it will serve as a valuable resource for students _across various engineeri
 
 The repository is organized with folders corresponding to different subjects. Whether you're diving into algorithms, databases, or exploring the intricacies of software engineering, you'll find a wealth of knowledge to aid your academic journey.
 
+**NOTE :-**
+
+Subjects like `Analog & Digital electronics`, `Computer Architecture` have good online materials to study directly from web. I personally never referred to any books for the same, so my plans for adding books for the same is on hold(😅 I need to figure out the suitable books first )
+
 ## Contribution and Collaboration 🤝
 
 I believe in the power of community collaboration and knowledge sharing. If you find these materials beneficial, consider giving the repository a ⭐ to show your appreciation. Feel free to share this repository far and wide, helping more students access quality study materials.
