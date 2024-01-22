@@ -8,6 +8,11 @@ Hope it will serve as a valuable resource for students _across various engineeri
 
 The repository is organized with folders corresponding to different subjects. Whether you're diving into algorithms, databases, or exploring the intricacies of software engineering, you'll find a wealth of knowledge to aid your academic journey.
 
+Flooding you life of books to read (bookworms only):-
+
+1. https://github.com/EbookFoundation/free-science-books/
+2. https://github.com/EbookFoundation/free-programming-books/
+
 **NOTE :-**
 
 Subjects like `Analog & Digital electronics`, `Computer Architecture` have good online materials to study directly from web. I personally never referred to any books for the same, so my plans for adding books for the same is on hold(😅 I need to figure out the suitable books first )
