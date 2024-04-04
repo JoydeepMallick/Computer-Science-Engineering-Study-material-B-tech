@@ -13,6 +13,11 @@ Flooding you life of books to read (bookworms only):-
 1. https://github.com/EbookFoundation/free-science-books/
 2. https://github.com/EbookFoundation/free-programming-books/
 
+Some websites which saved me when others failed(warriors of silence)
+
+1. https://pdfcoffee.com/
+2. https://www.pdfdrive.com/
+
 **NOTE :-**
 
 Subjects like `Analog & Digital electronics`, `Computer Architecture` have good online materials to study directly from web. I personally never referred to any books for the same, so my plans for adding books for the same is on hold(😅 I need to figure out the suitable books first )
