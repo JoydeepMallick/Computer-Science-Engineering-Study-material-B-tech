@@ -1,1 +1,3 @@
 https://theengineeringmaths.com/
+
+When to applu newton forward and backward difference formula -https://archive.nptel.ac.in/content/storage2/courses/122104018/node109.html#:~:text=Remark%2011.-,4.,Newton's%20backward%20formula%20is%20used.
