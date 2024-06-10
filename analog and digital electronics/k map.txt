@@ -1,0 +1,11 @@
+http://www.ee.surrey.ac.uk/Projects/Labview/minimisation/karnaugh.html
+
+https://www.allaboutcircuits.com/textbook/digital/chpt-8/larger-4-variable-karnaugh-maps/
+
+https://www.youtube.com/watch?v=_y1X1u7N2C4
+
+https://www.geeksforgeeks.org/introduction-of-k-map-karnaugh-map/
+
+http://www.32x8.com/pos3_____A-B-C_____m_1-2-4-5___________option-2_____899788976471894883644
+
+Please visit alll the webpages for better insight.
